@@ -1,0 +1,1 @@
+python ./train.py --train conll2003/en/train.txt --dev conll2003/en/dev.txt --test conll2003/en/test.txt
